@@ -15,7 +15,7 @@ def Fibdynamic(n):
         dictionary[n] = value 
         return value
 
-
+return 1'
 # qus 1(c)--->
 import time
 
