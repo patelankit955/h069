@@ -17,8 +17,8 @@ def Fibdynamic(n):
 
 
 # qus 1(c)--->
-
 import time
+
 
 T1 = time.time()
 for i in range(40):
@@ -26,7 +26,7 @@ for i in range(40):
 T2 = time.time()
 rec_Time = T2-T1
 print("recursion function time is : ",rec_Time)
-
+print("Nitish YU")
 T1 = time.time()
 for j in range(40):
   Fibdynamic(j+1)
