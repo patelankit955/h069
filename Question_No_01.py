@@ -1,13 +1,3 @@
-# qus 1(a)--->
-
-def Fibrecursive(n):
-  if n ==1:
-    return 1
-  if n ==2:
-    return 1
-  else:
-    value = Fibrecursive(n-1) + Fibrecursive(n-2)
-    return value
 
 
 # qus 1(b)--->
